@@ -1,0 +1,151 @@
+{
+  "page": 1,
+  "paginate_by": 10,
+  "count": 12,
+  "objects": [
+    {
+      "id": "1ea89931-6504-4dab-98c6-34cada43af59",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "4c065bb4-a0a4-440f-a40d-2e151fd12eaf",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:14:37.696165+00:00",
+      "modified_at": "2018-08-14T14:14:37.696165+00:00"
+    },
+    {
+      "id": "2bb9ac06-2c86-434d-aa45-0e01691eed09",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "5f7b7125-524d-4da0-aa26-5c57c2f1e4aa",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:12:17.281796+00:00",
+      "modified_at": "2018-08-14T14:12:17.281796+00:00"
+    },
+    {
+      "id": "807a597d-1e67-4664-855b-90ad59ec00a7",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "228a6ae6-2289-4498-8f9f-1f6acd818a3b",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:15:06.741182+00:00",
+      "modified_at": "2018-08-14T14:15:06.741182+00:00"
+    },
+    {
+      "id": "8a00abe4-5c33-4070-9bb0-2491376a9703",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "9f0597f0-a349-435b-98b5-581c6ebeee16",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:14:00.440074+00:00",
+      "modified_at": "2018-08-14T14:14:00.440074+00:00"
+    },
+    {
+      "id": "8f53ba81-0ff4-4964-bd14-5e015d5e91c7",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "072115e4-fbb7-482b-952e-8d04b1aec929",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:13:36.037178+00:00",
+      "modified_at": "2018-08-14T14:13:36.037178+00:00"
+    },
+    {
+      "id": "a8521677-6bd8-4350-9b9d-62ecf4dfcd44",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "ce8e1234-334d-4292-a191-b764992af192",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:11:50.266651+00:00",
+      "modified_at": "2018-08-14T14:11:50.266651+00:00"
+    },
+    {
+      "id": "aa3c6d74-cd9f-416c-91c6-b07ee8f7f43c",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "63b1f991-ba8c-4fe6-bc90-55cbf9550a06",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:14:59.783228+00:00",
+      "modified_at": "2018-08-14T14:14:59.783228+00:00"
+    },
+    {
+      "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "686a9ec4-a590-447c-8aba-dcf764b3abd9",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:16:05.177561+00:00",
+      "modified_at": "2018-08-14T14:16:05.177561+00:00"
+    },
+    {
+      "id": "cf6c9ff3-3d88-4432-acce-180c151395ed",
+      "title": "KOBELCO STEELERS",
+      "logo": {
+        "__typename": "media.files",
+        "id": "62ebd516-27d6-4fb9-93b7-96f6e1ca8d72",
+        "type": "image",
+        "mime_type": "image/png",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/wp-content/uploads/2017/07/kobelco_logo.png"
+        }
+      },
+      "coach_user_id": null,
+      "created_at": "2018-08-14T14:09:23.338733+00:00",
+      "modified_at": "2018-08-14T14:09:23.338733+00:00"
+    }
+  ]
+}

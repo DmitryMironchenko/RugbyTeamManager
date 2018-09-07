@@ -1,0 +1,260 @@
+{
+  "page": 1,
+  "paginate_by": 10,
+  "count": 9,
+  "objects": [
+    {
+      "id": "0dae2d37-1a44-46e6-a77c-49fdca52bc2b",
+      "profile_picture": {
+        "__typename": "media.files",
+        "id": "f8dac424-9090-4221-97d6-c2bab79e8f13",
+        "type": "image",
+        "mime_type": "image/jpeg",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/res/img/photo/topleague/kobelco/72335.jpg"
+        }
+      },
+      "name_english": "Matt Vant Leven",
+      "name_japanese": "\u30de\u30c3\u30c8\u30fb\u30d0\u30f3\u30ea\u30fc\u30d9\u30f3",
+      "field_position": "FW",
+      "height": 190.0,
+      "weight": 106.0,
+      "date_of_birth": "1987-10-23T00:00:00",
+      "blood_type": "O",
+      "personal_info": "Place of Birth: \u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9",
+      "created_at": "2018-08-14T14:16:10.690742+00:00",
+      "modified_at": "2018-08-14T14:16:10.690742+00:00",
+      "sensordevice": {
+        "id": "195b6fd3-4285-4881-a2a0-6ecec7c718b5",
+        "sensor_identifier": "player_sensor_8"
+      },
+      "team": {
+        "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c"
+      }
+    },
+    {
+      "id": "20c20579-9779-439e-8ab2-00dc1307a8ad",
+      "profile_picture": {
+        "__typename": "media.files",
+        "id": "4dcf7b48-d2db-4835-9f9a-259edef9e96f",
+        "type": "image",
+        "mime_type": "image/jpeg",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/res/img/photo/topleague/kobelco/72335.jpg"
+        }
+      },
+      "name_english": "Takayuki Watanabe",
+      "name_japanese": "\u6e21\u9089\u9686\u4e4b",
+      "field_position": "FW",
+      "height": 180.0,
+      "weight": 114.0,
+      "date_of_birth": "1994-05-27T00:00:00",
+      "blood_type": "O",
+      "personal_info": "Place of Birth: \u5317\u6d77\u9053",
+      "created_at": "2018-08-14T14:16:10.079555+00:00",
+      "modified_at": "2018-08-14T14:16:10.079555+00:00",
+      "sensordevice": {
+        "id": "acef0344-5c57-4c24-82de-6f66bbf83ac0",
+        "sensor_identifier": "player_sensor_7"
+      },
+      "team": {
+        "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c"
+      }
+    },
+    {
+      "id": "5163beb1-194c-471e-b672-13e74027472e",
+      "profile_picture": {
+        "__typename": "media.files",
+        "id": "8208083e-e946-488d-a2ad-8fb5665dc462",
+        "type": "image",
+        "mime_type": "image/jpeg",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/res/img/photo/topleague/kobelco/5204.jpg"
+        }
+      },
+      "name_english": "Hiroshi Yamashita",
+      "name_japanese": "\u5c71\u4e0b\u88d5\u53f2",
+      "field_position": "FW",
+      "height": 183.0,
+      "weight": 118.0,
+      "date_of_birth": "1986-01-01T00:00:00",
+      "blood_type": "O",
+      "personal_info": "Place of Birth: \u5927\u962a\u5e9c",
+      "created_at": "2018-08-14T14:16:09.198367+00:00",
+      "modified_at": "2018-08-14T14:16:09.198367+00:00",
+      "sensordevice": {
+        "id": "16e12898-311b-4e82-83fb-0f6173fcc09f",
+        "sensor_identifier": "player_sensor_6"
+      },
+      "team": {
+        "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c"
+      }
+    },
+    {
+      "id": "66623180-2c7f-4564-98fc-af2aee878902",
+      "profile_picture": {
+        "__typename": "media.files",
+        "id": "9b5f715a-4b0d-4683-aaa8-5d4f1a2bedbe",
+        "type": "image",
+        "mime_type": "image/jpeg",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/res/img/photo/topleague/kobelco/53187.jpg"
+        }
+      },
+      "name_english": "Raiko Katsuki",
+      "name_japanese": "\u52dd\u6728\u6765\u5e78",
+      "field_position": "FW",
+      "height": 176.0,
+      "weight": 108.0,
+      "date_of_birth": "1992-06-12T00:00:00",
+      "blood_type": "O",
+      "personal_info": "Place of Birth: \u4eac\u90fd\u5e9c",
+      "created_at": "2018-08-14T14:16:05.802059+00:00",
+      "modified_at": "2018-08-14T14:16:05.802059+00:00",
+      "sensordevice": {
+        "id": "172a40ea-209e-4dfc-a700-663e5a1959f7",
+        "sensor_identifier": "player_sensor_1"
+      },
+      "team": {
+        "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c"
+      }
+    },
+    {
+      "id": "7f28cb88-2c2b-48d5-ba83-effdb2a6ef3a",
+      "profile_picture": {
+        "__typename": "media.files",
+        "id": "3fcb1963-a7ee-40af-b1fd-e313a7fbf246",
+        "type": "image",
+        "mime_type": "image/jpeg",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/res/img/photo/topleague/kobelco/59729.jpg"
+        }
+      },
+      "name_english": "Hiroya Sawai",
+      "name_japanese": "\u6ca2\u5c45\u5bdb\u4e5f",
+      "field_position": "FW",
+      "height": 179.0,
+      "weight": 120.0,
+      "date_of_birth": "1990-07-18T00:00:00",
+      "blood_type": "O",
+      "personal_info": "Place of Birth: \u9752\u68ee\u770c",
+      "created_at": "2018-08-14T14:16:06.689052+00:00",
+      "modified_at": "2018-08-14T14:16:06.689052+00:00",
+      "sensordevice": {
+        "id": "b3d22c7f-5935-418c-9d97-1eab3722f034",
+        "sensor_identifier": "player_sensor_2"
+      },
+      "team": {
+        "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c"
+      }
+    },
+    {
+      "id": "a5642c1e-c6e8-4f3e-bc25-30553f2aab97",
+      "profile_picture": {
+        "__typename": "media.files",
+        "id": "f758d3db-edbd-46c8-88db-e3546be671f4",
+        "type": "image",
+        "mime_type": "image/jpeg",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/res/img/photo/topleague/kobelco/1722.jpg"
+        }
+      },
+      "name_english": "Hisateru Hirashima",
+      "name_japanese": "\u5e73\u5cf6\u4e45\u7167",
+      "field_position": "FW",
+      "height": 181.0,
+      "weight": 110.0,
+      "date_of_birth": "1983-01-15T00:00:00",
+      "blood_type": "O",
+      "personal_info": "Place of Birth: \u718a\u672c\u770c",
+      "created_at": "2018-08-14T14:16:07.947940+00:00",
+      "modified_at": "2018-08-14T14:16:07.947940+00:00",
+      "sensordevice": {
+        "id": "5a97dfdc-73c6-4fa6-82e2-a05c18784ba6",
+        "sensor_identifier": "player_sensor_4"
+      },
+      "team": {
+        "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c"
+      }
+    },
+    {
+      "id": "b3786fab-406f-4617-8b48-f80cb687a243",
+      "profile_picture": {
+        "__typename": "media.files",
+        "id": "c442bb1f-aeab-4375-98a5-1103fc1e0da9",
+        "type": "image",
+        "mime_type": "image/jpeg",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/res/img/photo/topleague/kobelco/72378.jpg"
+        }
+      },
+      "name_english": "Takumi Tsukahara",
+      "name_japanese": "\u585a\u539f\u5de7\u5df3",
+      "field_position": "FW",
+      "height": 182.0,
+      "weight": 119.0,
+      "date_of_birth": "1994-03-18T00:00:00",
+      "blood_type": "O",
+      "personal_info": "Place of Birth: \u6803\u6728\u770c",
+      "created_at": "2018-08-14T14:16:07.316281+00:00",
+      "modified_at": "2018-08-14T14:16:07.316281+00:00",
+      "sensordevice": {
+        "id": "85816f9e-ca15-4028-a093-44ac53d04df0",
+        "sensor_identifier": "player_sensor_3"
+      },
+      "team": {
+        "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c"
+      }
+    },
+    {
+      "id": "dbcb9be4-2353-420d-aa90-c0b3a0fec546",
+      "profile_picture": null,
+      "name_english": "jack",
+      "name_japanese": null,
+      "field_position": null,
+      "height": null,
+      "weight": null,
+      "date_of_birth": null,
+      "blood_type": null,
+      "personal_info": null,
+      "created_at": "2018-08-14T13:24:42.634755+00:00",
+      "modified_at": "2018-08-14T13:28:38.444461+00:00",
+      "sensordevice": {
+        "id": "3f22e590-131c-41e7-afe0-4a67747bc154",
+        "sensor_identifier": "loc_sensor_0"
+      },
+      "team": {
+        "id": "1711297f-3d0b-460c-a5e5-ab8297febeec"
+      }
+    },
+    {
+      "id": "e6f9e086-3ebe-4e0e-9edd-428e3efeea0d",
+      "profile_picture": {
+        "__typename": "media.files",
+        "id": "9d0ebca3-d73a-48fa-ba9c-5a272bb4f875",
+        "type": "image",
+        "mime_type": "image/jpeg",
+        "thumbnails": {
+          "original": "http://en.rugby-japan.jp/res/img/photo/topleague/kobelco/7896.jpg"
+        }
+      },
+      "name_english": "Motoki Yamazaki",
+      "name_japanese": "\u5c71\u5d0e\u57fa\u751f",
+      "field_position": "FW",
+      "height": 174.0,
+      "weight": 106.0,
+      "date_of_birth": "1988-11-25T00:00:00",
+      "blood_type": "O",
+      "personal_info": "Place of Birth: \u9999\u5ddd\u770c",
+      "created_at": "2018-08-14T14:16:08.573379+00:00",
+      "modified_at": "2018-08-14T14:16:08.573379+00:00",
+      "sensordevice": {
+        "id": "1d935698-3f20-4fa4-a0ea-34695655c903",
+        "sensor_identifier": "player_sensor_5"
+      },
+      "team": {
+        "id": "c4c9f71c-86d3-4435-ae98-e9e30345857c"
+      }
+    }
+  ]
+}
